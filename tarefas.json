@@ -1,0 +1,38 @@
+[
+    {
+        "id": 3,
+        "titulo": "Lavar o Carro",
+        "descricao": "Ir ao lavajato e lavar o carro",
+        "concluida": false,
+        "criada_em": "2025-05-29T01:20:07+02:00"
+    },
+    {
+        "id": 4,
+        "titulo": "Terminar a tela do Proteo",
+        "descricao": "Terminar a tela de cadastro de catastrofes do Proteo",
+        "concluida": false,
+        "criada_em": "2025-05-29T01:20:53+02:00"
+    },
+    {
+        "id": 5,
+        "titulo": "Terminar a tela do Proteo",
+        "descricao": "Terminar a tela de cadastro de Planos do Proteo",
+        "concluida": true,
+        "criada_em": "2025-05-29T01:21:08+02:00"
+    },
+    {
+        "id": 6,
+        "titulo": "Comprar leite",
+        "descricao": "Ir ao supermercado e pegar 2 litros de leite",
+        "concluida": false,
+        "criada_em": "2025-05-29T01:24:02+02:00"
+    },
+    {
+        "id": 7,
+        "titulo": "Limpar a casa",
+        "descricao": "",
+        "concluida": true,
+        "criada_em": "2025-06-11T01:24:42+02:00",
+        "atualizada_em": "2025-06-11T01:27:08+02:00"
+    }
+]
